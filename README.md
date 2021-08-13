@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Mobile Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me E-mial=pandyadevang85@gmail.com
+- 📫 How to reach me E-mail=pandyadevang85@gmail.com
 
 <!---
 Devang77/Devang77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

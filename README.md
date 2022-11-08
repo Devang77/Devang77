@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devang77
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Mobile Development
+- 👀 I’m interested in python and devops
+- 🌱 I’m currently learning python and devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail=pandyadevang85@gmail.com
 

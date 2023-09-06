@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail=pandyadevang85@gmail.com
-- +91 9246578907
+- phone +91 9246578907
 
 <!---
 Devang77/Devang77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

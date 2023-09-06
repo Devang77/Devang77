@@ -2,7 +2,7 @@
 - 👀 I’m interested in python and devops
 - 🌱 I’m currently learning python and devops
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me E-mail= 9246578907
+- 📫 How to reach me E-mail=pandyadevang85@gmail.com
 
 
 <!---

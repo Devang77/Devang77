@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail=pandyadevang85@gmail.com
-  pandyadevang25@gmail.com pandyadevang25@gmail.com
+  
 
 
 <!---
